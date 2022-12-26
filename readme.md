@@ -1,4 +1,4 @@
-# Tech app
+# Tech Application
 
 [![Build Status](https://api.travis-ci.org/himanshusingh2041/tech.svg?branch=master)](https://github.com/himanshusingh2041/tech)
 [![Coverage Status](https://s3.amazonaws.com/assets.coveralls.io/badges/coveralls_100.svg)](https://coveralls.io/github/himanshusingh2041/tech?branch=main)
