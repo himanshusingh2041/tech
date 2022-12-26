@@ -15,7 +15,7 @@ spring:
           lob:
             non_contextual_creation: true
     hibernate:
-      ddl-auto: none
+      ddl-auto: create
   datasource:
     platform: postgres
     url: jdbc:postgresql://localhost:5432/tech2041
