@@ -16,6 +16,7 @@
     <properties>
         <java.version>11</java.version>
         <spring.docs.api>1.6.12</spring.docs.api>
+		<test.version>0.0.1</test.version>
     </properties>
     <dependencies>
         <dependency>
