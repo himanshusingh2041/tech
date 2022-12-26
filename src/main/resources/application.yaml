@@ -15,7 +15,7 @@ spring:
           lob:
             non_contextual_creation: true
     hibernate:
-      ddl-auto: create
+      ddl-auto: none
   datasource:
     platform: postgres
     url: jdbc:postgresql://localhost:5432/tech2041
@@ -27,6 +27,7 @@ spring:
     hikari:
       auto-commit: false
   liquibase:
+    enabled: false
     change-log: 'classpath:database/main-db.xml'
 
 springdoc:
