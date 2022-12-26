@@ -27,7 +27,7 @@ spring:
     hikari:
       auto-commit: false
   liquibase:
-    enabled: false
+    enabled: true
     change-log: 'classpath:database/main-db.xml'
 
 springdoc:
